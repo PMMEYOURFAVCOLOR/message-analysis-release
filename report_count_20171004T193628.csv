@@ -1,0 +1,567 @@
+color,colorhex,colorcount
+blue,#0343df,1047
+green,#15b01a,951
+red,#e50000,591
+purple,#7e1e9c,533
+orange,#f97306,473
+black,#000000,291
+yellow,#ffff14,272
+pink,#ff81c0,258
+toaster struddle,,191
+grey,#929591,143
+white,#ffffff,127
+dark green,#033500,117
+teal,#029386,109
+cyan,#00ffff,91
+brown,#653700,88
+royal,#0c1793,80
+navy,#01153e,72
+turquoise,#06c2ac,64
+maroon,#650021,61
+burgundy,#610023,59
+royal blue,#0504aa,56
+gray,#929591,55
+navy blue,#001146,54
+crimson,#8c000f,53
+chartreuse,#c1f80a,51
+silver,#c5c9c7,50
+forest,#0b5509,46
+gold,#dbb40c,46
+cerulean,#0485d1,44
+clear,,44
+forest green,#06470c,43
+aqua,#13eac9,42
+mayonnaise,,42
+unknown url,,41
+blood,#770001,40
+lime,#aaff32,39
+magenta,#c20078,39
+rainbow,,39
+sky,#82cafc,37
+violet,#9a0eea,37
+periwinkle,#8e82fe,35
+indigo,#380282,31
+lime green,#89fe05,30
+sky blue,#75bbfd,28
+emerald,#01a049,27
+dark blue,#00035b,27
+sparkle,,27
+olive,#6e750e,26
+seafoam,#80f9ad,25
+shit,#7f5f00,23
+lavender,#c79fef,23
+royal purple,#4b006e,21
+hot pink,#ff028d,21
+beige,#e6daa6,21
+mauve,#ae7181,19
+colorblind,,19
+racing green,#014600,18
+olive green,#677a04,17
+dark purple,#35063e,17
+soul,,17
+pantone,,17
+sea,#3c9992,16
+british racing green,#05480d,16
+cobalt,#1e488f,16
+seafoam green,#7af9ab,16
+dark red,#840000,16
+light blue,#95d0fc,16
+octarine,,16
+prussian blue,#004577,14
+azure,#069af3,13
+puce,#a57e52,13
+lilac,#cea2fd,13
+plaid,,13
+sapphire,#2138ab,12
+emerald green,#028f1e,12
+blood red,#980002,12
+electric blue,#0652ff,12
+greenish,#40a368,12
+coral,#fc5a50,12
+neon green,#0cff0c,12
+pale,#fff9d0,11
+ocean,#017b92,11
+mint,#9ffeb0,11
+scarlet,#be0119,10
+fuchsia,#ed0dd9,10
+aquamarine,#04d8b2,10
+burnt orange,#c04e01,10
+penis,,10
+customhex22-bada55,#bada55,10
+foam green,#90fda9,9
+viridian,#1e9167,9
+bordeaux,#7b002c,9
+plum,#580f41,9
+sunset,,9
+midnight,#03012d,8
+cobalt blue,#030aa7,8
+harambe,,8
+don't have,,8
+macaroni and cheese,#efb435,7
+poo,#8f7303,7
+vermillion,#f4320c,7
+sienna,#a9561e,7
+grass,#5cac2d,7
+midnight blue,#020035,7
+burnt sienna,#b04e0f,7
+taupe,#b9a281,7
+mustard,#ceb301,7
+glitter,,7
+ultraviolet,,7
+ass,,7
+customhex20-0000ff,#0000ff,7
+tiffany blue,#7bf2da,6
+shit brown,#7b5804,6
+amber,#feb308,6
+cerulean blue,#056eee,6
+blurple,#5539cc,6
+pastel pink,#ffbacd,6
+aubergine,#3d0734,6
+charcoal,#343837,6
+baby pink,#ffb7ce,6
+ocean blue,#03719c,6
+hunter green,#0b4008,6
+dark grey,#363737,6
+deep purple,#36013f,6
+mint green,#8fff9f,6
+baby blue,#a2cffe,6
+light green,#96f97b,6
+space,,6
+infrared,,6
+death,,6
+none,,6
+skin,,6
+customhex82-00ff00,#00ff00,6
+ruby,#ca0147,5
+mango,#ffa62b,5
+marine,#042e60,5
+pine,#2b5d34,5
+ultramarine,#2000b1,5
+poop,#7f5e00,5
+vomit,#a2a415,5
+wine,#80013f,5
+cream,#ffffc2,5
+kelly green,#02ab2e,5
+grass green,#3f9b0b,5
+light pink,#ffd1df,5
+salmon,#ff796c,5
+tan,#d1b26f,5
+potato,#b79268,5
+transparent,,5
+fuschia,#ed0dd9,5
+aqua marine,#2ee8bb,4
+bronze,#a87900,4
+eggshell,#ffffd4,4
+neon pink,#fe019a,4
+tangerine,#ff9408,4
+sage,#87ae73,4
+eggplant,#380835,4
+slate,#516572,4
+sea green,#53fca1,4
+peach,#ffb07c,4
+tits,,4
+milk,,4
+anal,,4
+sanguine,#850505,4
+yee,,4
+sarcoline,#fadfae,4
+vermilion,#E34234,4
+pizza,,4
+concrete,,4
+blue blue,#2242c7,3
+dodger blue,#3e82fc,3
+ice,#d6fffa,3
+apple,#6ecb3c,3
+banana,#ffff7e,3
+golden,#f5bf03,3
+cherry,#cf0234,3
+poo brown,#885f01,3
+copper,#b66325,3
+bright orange,#ff5b00,3
+ice blue,#d7fffe,3
+mahogany,#4a0100,3
+jade,#1fa774,3
+deep red,#9a0200,3
+moss,#769958,3
+grape,#6c3461,3
+mustard yellow,#d2bd0a,3
+pale pink,#ffcfdc,3
+spring green,#a9f971,3
+dark orange,#c65102,3
+rose,#cf6275,3
+sparkles,,3
+burgandy,#610023,3
+memes,,3
+turqoise,#06c2ac,3
+bob ross,,3
+all of them,,3
+glass,,3
+drop table,,3
+candy pink,#ff63e9,2
+azul,#1d5dec,2
+burple,#6832e3,2
+carmine,#9d0216,2
+lipstick,#d5174e,2
+dandelion,#fedf08,2
+orangered,#fe420f,2
+piss yellow,#ddd618,2
+leaf,#71aa34,2
+diarrhea,#9f8303,2
+shamrock,#01b44c,2
+greyish,#a8a495,2
+tomato,#ef4026,2
+earth,#a2653e,2
+gunmetal,#536267,2
+drab,#828344,2
+deep sky blue,#0d75f8,2
+carolina blue,#8ab8fe,2
+ivory,#ffffcb,2
+dirt,#8a6e45,2
+dark maroon,#3c0008,2
+dark forest green,#002d04,2
+steel,#738595,2
+periwinkle blue,#8f99fb,2
+purplish,#94568c,2
+bright yellow,#fffd01,2
+mud,#735c12,2
+cornflower,#6a79f7,2
+chocolate,#3d1c02,2
+sage green,#88b378,2
+pastel blue,#a2bffe,2
+forrest green,#154406,2
+cornflower blue,#5170d7,2
+dark magenta,#960056,2
+moss green,#658b38,2
+pale yellow,#ffff84,2
+ochre,#bf9005,2
+rust,#a83c09,2
+sand,#e2ca76,2
+dark brown,#341c02,2
+light purple,#bf77f6,2
+camouflage,,2
+couch,,2
+fulvous,#e48400,2
+grue,,2
+shrek,#75f514,2
+anime,,2
+translucent,,2
+platinum,#e5e4e2,2
+tears,,2
+hooloovoo,,2
+butt,,2
+oxblood,#800020,2
+poptart,,2
+carpet,,2
+razzmatazz,#e3256b,2
+glow in the dark,,2
+american flag,,2
+customhex11-145763,#145763,2
+customhex69-c0ffee,#c0ffee,2
+customhex111-66ccff,#66ccff,2
+customhexT2-1-fed2c8,#fed2c8,2
+dust,#b2996e,1
+electric lime,#a8ff04,1
+kiwi green,#8ee53f,1
+eggplant purple,#430541,1
+powder pink,#ffb2d0,1
+battleship grey,#6b7c85,1
+bruise,#7e4071,1
+charcoal grey,#3c4142,1
+squash,#f2ab15,1
+cinnamon,#ac4f06,1
+orangeish,#fd8d49,1
+seafoam blue,#78d1b6,1
+indigo blue,#3a18b1,1
+leather,#ac7434,1
+canary,#fdff63,1
+darkish purple,#751973,1
+plum purple,#4e0550,1
+neon red,#ff073a,1
+blood orange,#fe4b03,1
+pinky,#fc86aa,1
+red wine,#8c0034,1
+shit green,#758000,1
+darkish red,#a90308,1
+saffron,#feb209,1
+twilight,#4e518b,1
+petrol,#005f6a,1
+butter,#ffff81,1
+off yellow,#f1f33f,1
+velvet,#750851,1
+lightish red,#fe2f4a,1
+carnation,#fd798f,1
+baby green,#8cff9e,1
+purpley,#8756e4,1
+baby shit green,#889717,1
+dark grey blue,#29465b,1
+greeny brown,#696006,1
+sunshine yellow,#fffd37,1
+bright lime,#87fd05,1
+heather,#a484ac,1
+peacock blue,#016795,1
+merlot,#730039,1
+heliotrope,#d94ff5,1
+leafy green,#51b73b,1
+frog green,#58bc08,1
+kiwi,#9cef43,1
+ultramarine blue,#1805db,1
+turquoise blue,#06b1c4,1
+carnation pink,#ff7fa7,1
+blue/green,#0f9b8e,1
+stone,#ada587,1
+french blue,#436bad,1
+soft purple,#a66fb5,1
+berry,#990f4b,1
+baby poop,#937c00,1
+irish green,#019529,1
+pink/purple,#ef1de7,1
+wheat,#fbdd7e,1
+bottle green,#044a05,1
+shocking pink,#fe02a2,1
+auburn,#9a3001,1
+bright lime green,#65fe08,1
+poop brown,#7a5901,1
+barney,#ac1db8,1
+ocre,#c69c04,1
+maize,#f4d054,1
+cherry red,#f7022a,1
+pastel yellow,#fffe71,1
+canary yellow,#fffe40,1
+sepia,#985e2b,1
+soft blue,#6488ea,1
+golden brown,#b27a01,1
+bluish,#2976bb,1
+pistachio,#c0fa8b,1
+dull orange,#d8863b,1
+electric purple,#aa23ff,1
+fluorescent green,#08ff08,1
+lemon,#fdff52,1
+acid green,#8ffe09,1
+apricot,#ffb16d,1
+true blue,#010fcc,1
+reddish,#c44240,1
+marine blue,#01386a,1
+teal green,#25a36f,1
+slate grey,#59656d,1
+umber,#b26400,1
+jungle green,#048243,1
+chocolate brown,#411900,1
+neon blue,#04d9ff,1
+evergreen,#05472a,1
+reddish orange,#f8481c,1
+vomit green,#89a203,1
+burnt umber,#a0450e,1
+pale red,#d9544d,1
+raspberry,#b00149,1
+aqua green,#12e193,1
+greenish brown,#696112,1
+pumpkin,#e17701,1
+pine green,#0a481e,1
+bluish green,#10a674,1
+dark cyan,#0a888a,1
+olive drab,#6f7632,1
+pinkish,#d46a7e,1
+powder blue,#b1d1fc,1
+dark turquoise,#045c5a,1
+bright red,#ff000d,1
+pinkish red,#f10c45,1
+greyish blue,#5e819d,1
+dusty rose,#c0737a,1
+brick,#a03623,1
+light yellow,#fffe7a,1
+light grey,#d8dcd6,1
+puke,#a5a502,1
+sea blue,#047495,1
+slate blue,#5b7c99,1
+deep blue,#040273,1
+goldenrod,#fac205,1
+dark yellow,#d5b60a,1
+army green,#4b5d16,1
+grey blue,#6b8ba4,1
+puke green,#9aae07,1
+blue green,#137e6d,1
+khaki,#aaa662,1
+brick red,#8f1402,1
+bright purple,#be03fd,1
+pale blue,#d0fefe,1
+bright blue,#0165fc,1
+pale green,#c7fdb5,1
+bright green,#01ff07,1
+dolphin,,1
+microwave,,1
+gamboge,#e49b0f,1
+amaranth,#e52b50,1
+corduroy,,1
+scarlett,#be0119,1
+cardinal,#c41e3a,1
+hotpink,#ff028d,1
+brass,#b5a642,1
+roast beef,,1
+borange,,1
+booty,,1
+burrito,,1
+cardboard,#a58855,1
+jizz,,1
+snek,,1
+palatinate,#7e317b,1
+waffle,,1
+dachshund,,1
+umbra,#8a7e66,1
+charteuese,#c1f80a,1
+fog,,1
+no favourite color,,1
+yellar,#ffff14,1
+bob saget,,1
+bacon,,1
+ebony,,1
+customhex1-ffffaa,#ffffaa,1
+customhex2-ff5900,#ff5900,1
+customhex3-ffc600,#ffc600,1
+customhex4-008b8b,#008b8b,1
+customhex5-ff0000,#ff0000,1
+customhex6-33ffaa,#33ffaa,1
+customhex7-00baff,#00baff,1
+customhex8-395154,#395154,1
+customhex9-008888,#008888,1
+customhex10-7acce5,#7acce5,1
+customhex12-940387,#940387,1
+customhex13-00ff90,#00ff90,1
+customhex14-33b6e4,#33b6e4,1
+customhex15-be4c53,#be4c53,1
+customhex16-23f548,#23f548,1
+customhex17-dcdcdc,#dcdcdc,1
+customhex18-3364ff,#3364ff,1
+customhex19-292e37,#292e37,1
+customhex21-42abcd,#42abcd,1
+customhex23-b2d235,#b2d235,1
+customhex24-2f0060,#2f0060,1
+customhex25-7b37a6,#7b37a6,1
+customhex26-6f00d8,#6f00d8,1
+customhex27-333333,#333333,1
+customhex28-e35205,#e35205,1
+customhex29-00bcd4,#00bcd4,1
+customhex30-69420f,#69420f,1
+customhex31-002b36,#002b36,1
+customhex32-66ffff,#66ffff,1
+customhex33-903581,#903581,1
+customhex34-add8e6,#add8e6,1
+customhex35-2b292e,#2b292e,1
+customhex36-353839,#353839,1
+customhex37-c80011,#c80011,1
+customhex38-36a2eb,#36a2eb,1
+customhex39-0e9bf9,#0e9bf9,1
+customhex40-00ff99,#00ff99,1
+customhex41-006400,#006400,1
+customhex42-cc6666,#cc6666,1
+customhex43-696969,#696969,1
+customhex44-c7dfed,#c7dfed,1
+customhex45-4b9e51,#4b9e51,1
+customhex46-1337bb,#1337bb,1
+customhex47-ccccff,#ccccff,1
+customhex48-1d7b8c,#1d7b8c,1
+customhex49-50c875,#50c875,1
+customhex50-292f34,#292f34,1
+customhex51-e53935,#e53935,1
+customhex52-b00b1e,#b00b1e,1
+customhex53-ff7b07,#ff7b07,1
+customhex54-0000cd,#0000cd,1
+customhex55-007eff,#007eff,1
+customhex56-a5df00,#a5df00,1
+customhex57-2ab73a,#2ab73a,1
+customhex58-0670b1,#0670b1,1
+customhex59-6699cc,#6699cc,1
+customhex60-50dd12,#50dd12,1
+customhex61-2b303b,#2b303b,1
+customhex62-000666,#000666,1
+customhex63-006699,#006699,1
+customhex64-071740,#071740,1
+customhex65-27fdf5,#27fdf5,1
+customhex66-2f90d0,#2f90d0,1
+customhex67-4e42f4,#4e42f4,1
+customhex68-003366,#003366,1
+customhex70-00d494,#00d494,1
+customhex71-ff0080,#ff0080,1
+customhex72-30ba8f,#30ba8f,1
+customhex73-ffe4e1,#ffe4e1,1
+customhex74-f4f442,#f4f442,1
+customhex75-69f420,#69f420,1
+customhex76-6a0136,#6a0136,1
+customhex77-d6edf9,#d6edf9,1
+customhex78-006600,#006600,1
+customhex79-ff6213,#ff6213,1
+customhex80-9bddff,#9bddff,1
+customhex81-16218d,#16218d,1
+customhex83-ff2400,#ff2400,1
+customhex84-006660,#006660,1
+customhex85-89bab5,#89bab5,1
+customhex86-20eaaa,#20eaaa,1
+customhex87-5f0fff,#5f0fff,1
+customhex88-99ccff,#99ccff,1
+customhex89-b00b69,#b00b69,1
+customhex90-ff8300,#ff8300,1
+customhex91-00ffa6,#00ffa6,1
+customhex92-009e60,#009e60,1
+customhex93-000080,#000080,1
+customhex94-beeeef,#beeeef,1
+customhex95-976bad,#976bad,1
+customhex96-3300bb,#3300bb,1
+customhex97-aa220d,#aa220d,1
+customhex98-6400de,#6400de,1
+customhex99-3bb9ff,#3bb9ff,1
+customhex100-1e90ff,#1e90ff,1
+customhex101-99f281,#99f281,1
+customhex102-047b0a,#047b0a,1
+customhex103-ffbf52,#ffbf52,1
+customhex104-5238b4,#5238b4,1
+customhex105-2eb8b8,#2eb8b8,1
+customhex106-babaca,#babaca,1
+customhex107-663399,#663399,1
+customhex108-0abdff,#0abdff,1
+customhex109-631fa3,#631fa3,1
+customhex110-414141,#414141,1
+customhex112-ff7700,#ff7700,1
+customhex113-bc7529,#bc7529,1
+customhex114-7f1a1b,#7f1a1b,1
+customhex115-00ffea,#00ffea,1
+customhex116-f39200,#f39200,1
+customhex117-461fc1,#461fc1,1
+customhex118-00421f,#00421f,1
+customhex119-2ecbff,#2ecbff,1
+customhexT2-2-bc03ff,#bc03ff,1
+customhexT2-3-21b6a8,#21b6a8,1
+customhexT2-4-6a6f93,#6a6f93,1
+customhexT2-5-0ab4e6,#0ab4e6,1
+customhexT2-6-ffff99,#ffff99,1
+customhexT2-7-08b07c,#08b07c,1
+customhexT2-8-bf5700,#bf5700,1
+customhexT2-9-39c8ff,#39c8ff,1
+customhexT2-10-ffb2b2,#ffb2b2,1
+customhexT2-11-ff4500,#ff4500,1
+customhexT2-12-b71513,#b71513,1
+customhexT2-13-200ce4,#200ce4,1
+customhexT2-14-ffbdfb,#ffbdfb,1
+customhexT2-15-9a3b2a,#9a3b2a,1
+customhexT2-16-af1e2c,#af1e2c,1
+customhexT2-17-0b2ebc,#0b2ebc,1
+customhexT2-18-5bdb99,#5bdb99,1
+customhexT2-19-030303,#030303,1
+customhexT2-20-373a77,#373a77,1
+customhexT2-21-6b008c,#6b008c,1
+customhexT2-22-ceff00,#ceff00,1
+customhexT2-23-e17fb2,#e17fb2,1
+customhexT2-24-228b22,#228b22,1
+customhexT2-25-836e5b,#836e5b,1
+customhexT2-26-523138,#523138,1
+customhexT2-27-12362b,#12362b,1
+customhexT2-28-ff8888,#ff8888,1
+customhexT2-29-00b4ff,#00b4ff,1
+customhexT2-30-b87c65,#b87c65,1
+customhexT2-31-e98b76,#e98b76,1
+customhexT2-32-ffcf05,#ffcf05,1
+customhexT2-33-ba5b22,#ba5b22,1
+customhexT2-34-8b0000,#8b0000,1
+customhexT2-35-9932cd,#9932cd,1
+customhexT2-36-4aff01,#4aff01,1
+customhexT2-37-6f00ff,#6f00ff,1
+customhexT2-38-ff9b00,#ff9b00,1
+customhexT2-39-ffa71a,#ffa71a,1

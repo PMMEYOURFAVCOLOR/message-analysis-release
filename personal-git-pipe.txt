@@ -1,0 +1,97 @@
+* 42aaad2 (HEAD -> master) Fix bug where others/untagged only displayed in SVGs
+* 12ba752 Add SVG export
+* 6afe24b Add title to TopNnonrgbtags chart
+* 8685ef5 Add 'Others' slice to pie chart
+* aeb0a68 Add illegal character validation, make pyperclip optional
+* da3de90 Add pip install instructions for anaconda in setup.sh
+* c7e2d38 Fix setup.sh
+* 3d1dcf5 Add setup.sh, script to facilitate cygwin python installs
+*   30c8b63 Merge branch 'parsecolorhexcode'
+|\  
+| * 649b6c4 add comments, ready to merge
+| * 0fb6821 reordered hexsearch calls, added parsecolorhexcodeNOHT(), fixed bug in both parsers where regex was a-z instead of a-f
+| * 6bb9af9 code cleanup, added comments
+| * 573d852 add hexsearch support for non HT hex colors
+| *   87058ea Merge branch 'addlabels' into parsecolorhexcode
+| |\  
+| | * 3f1013d pep8 cleanup
+| | * 6cf805a added linewidth input argument
+| | * 13f08a8 added elapsed time, adjusted piechart name
+| | * 61b70e5 added transparency switch, fixed label switch
+| | * 9df6aa7 top 25 labels added, removed dark from rgbcsv
+| |/  
+| * fd4fcbe delete hex color t1 tag in report when parsed -todo find out why plot isnt affected
+| * cd052d2 pep8 improvements
+| * 28b6812 moved some csv searches to hexsearch, tag messages with parsed hex, add parsed hexes to report table
+| * fb0d012 hexes parsed out of messages, stored individually in for loop variables
+|/  
+* bd24ee1 code cleanup
+* 46735ec removed plotlytest
+* 0df2d82 removed old dbs
+* 34d4a67 fix double quote inconsistent, hexsearch readable, piechart function, added url comments
+* f8508d5 finalized non-gdocs name hashing script
+* 6150730 removed plotly dependency since it's unused
+* 667baf4 separate folder export
+* a009d48 main function works with exports todo-make separate export folders
+* 0678c7d code cleanup, export now has timevar
+* 749eac5 multiple exports working in function
+*   fbf900e Merge branch 'inclnonrgb'
+|\  
+| * b536d07 export png works, hatches added to non rgb circles
+| * a991cbc extra circles added, todo hatch fill them
+|/  
+* 57ea13f outlines added, size adjusted looks good
+| * 14bb88c (tryradial) radial works, not as good
+|/  
+* cd6b6d1 2d plot, h-x, v-y
+* 38450eb the matplotlib actually works!
+* eb59979 minor pep8 fixes
+*   8a26ec2 Merge branch 'splitrgb' back into master. RGB/HSV are parsed and waiting in db for plotting.
+|\  
+| * 8d49331 changed test boolean, splitrgb is ready to merge back to main
+| * 395703f removed str functions from sql update, probably ok to do this
+| * 3bb1319 major bug in splitrgb--hsv are now not just 1 or 0
+| * 5faa282 added comments
+| * 21d7ca5 splitrgb now puts all its data in a new report table in db
+| | * 1c2c280 (var2csv) csv export takes varaible array instead of sql select now
+| |/  
+| * 07ab8af do all sql report selects in splitrgb
+| * 17ac914 initial splitrgb function, hgb&hsv stored as variables todo-sqlUPDATE
+|/  
+*   10a4dad Merge branch 'renderchart'
+|\  
+| * d9bc7b0 original working copy deleted before reconnect ro premade
+* | b831897 original working copy deleted before reconnect to premade
+|/  
+* f9000a6 establish testing platform near main function call
+* 569d4a9 fixed like bug for additional hexsearch function
+* 3d6c91e fixed like bug, added rgbs
+* 8549ad0 added counts to report, hexsearch ready to merge after git diff
+* d887175 least it works now. hashtags only
+* 64b01d4 end of day, doesnt work needs testing
+* 9fe0c8f begin hexsearch branch
+* 1faad03 More pep8 improvements, reportcsv now doesn't unclude 0 counts
+*   54bd197 Merge branch 'filecheck' into pep8
+|\  
+| * 03e4597 timestamped reports complete
+| * 86a8c9b file verification working, todo-add time to reports
+* | 123f070 fixing comments, breaking lines. --untested
+|/  
+* 8e34fe8 tabs to spaces, re enabled main function, ready to merge back
+* e88fd81 gdocs and report csv working. re enable main before merge back to main
+* c689db1 exportcsv works. todo- reactivate main, gen gdocs table
+* 8d6735b begin trying csv export
+* 1a58c69 file permission issue
+* 24e7c36 end of day, try csv export but commented
+* 07e80e3 fixed fetchone double variable
+* a93c153 cleanup line breaks, automatic cwd, move program to main(), organize other defs
+* 3aeda5a remove breaks from test, improved command window messages
+* b31a225 order by function works, everything ok
+* c967c8c sql update readable dates works. todo-order by
+* 2755fbb begin datetime calcs
+* ca9c6b7 hash update to table works!
+* 76ad97c gitignore added for working db files
+* 6b93a5d hash works with salt, todo-cleanup
+* 54378c4 l.o.l. hash works, but not pretty
+* 335e149 removed extra db files- todo exclude them
+* 6ac1cd4 initial
